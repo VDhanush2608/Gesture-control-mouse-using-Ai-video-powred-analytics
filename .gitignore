@@ -1,0 +1,8 @@
+.venv/
+venv/
+venv_mouse/
+__pycache__/
+*.pyc
+*.avi
+*.mp4
+*.zip
